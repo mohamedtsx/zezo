@@ -241,7 +241,6 @@ var data = {
 
 let welcome = document.getElementById("welcome");
 let popupcontent = document.getElementsByClassName("popupinfo")[0];
-let french = document.getElementById("french");
 let english = document.getElementById("english");
 let language;
 
