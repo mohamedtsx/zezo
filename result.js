@@ -204,7 +204,7 @@ const ls = (y, result, secret) => {
       "beforeend",
       `<div class="result ls">
             <div>list-secret</div>
-            <div><code>Guillaume REYGNER</code></div>
+            <div><code>Abdelaziz Hassan</code></div>
           </div>`
     );
   } else if (y === -1 && result === "ls -a") {
@@ -214,7 +214,7 @@ const ls = (y, result, secret) => {
       <div><code>.</code></div>
       <div><code>.secret</code></div>
       <div>list-secret</div>
-      <div><code>Guillaume REYGNER</code></div>
+      <div><code>Abdelaziz Hassan</code></div>
     </div>`
     );
   }

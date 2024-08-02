@@ -1,4 +1,3 @@
-
 <h1 align="center">
   <br>
   <a href="https://www.guillaumereygner.fr/"><img src="images/terminal.png" alt="Portfolio" width="200"></a>
@@ -26,4 +25,5 @@ Le site est en live ici 👉 [portfolio](https://www.guillaumereygner.fr/)
 Le site est responsive. Bonne découverte !</p>
 
 ## Crédit 🔗
+
 [Guillaume Reygner](https://github.com/guillaume-rygn)
